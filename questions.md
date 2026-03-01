@@ -1,4 +1,4 @@
-# Resources for Going Deeper
+# Additional Resources
 
 These skills cover specific pieces of the eval process: finding failures, measuring them, and building review tools. Evals as a whole are broader and more human-driven. If you're wondering *why* binary pass/fail instead of Likert scales, why error analysis before metrics, or why code-based checks before LLM judges, these resources explain the reasoning.
 
