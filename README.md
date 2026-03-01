@@ -1,6 +1,6 @@
 # Eval Skills for AI Coding Agents
 
-Skills that teach AI coding agents to help you build LLM evaluations: find failures, measure them, and fix them. Each skill is a focused instruction set that an agent loads for a specific eval task.
+Skills that guide AI coding agents to help you build LLM evaluations: find failures, measure them, and fix them. Each skill is a focused instruction set that an agent loads for a specific eval task.
 
 These skills assume familiarity with eval concepts. They complement the [AI Evals course](https://maven.com/parlance-labs/evals?promoCode=evals-info-url) by Hamel Husain and Shreya Shankar. If you're new to evals, see [questions.md](questions.md) for free articles, videos, and talks on the fundamentals.
 
