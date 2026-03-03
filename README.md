@@ -2,7 +2,7 @@
 
 Skills that guide AI coding agents to help you build LLM evaluations.
 
-These skills complement the [AI Evals course](https://maven.com/parlance-labs/evals?promoCode=evals-info-url) by Hamel Husain and Shreya Shankar. If you're new to evals, see [questions.md](questions.md) for free resources on the fundamentals.
+These skills guard against common mistakes I've seen helping 50+ companies and teaching students in our [AI Evals course](https://maven.com/parlance-labs/evals?promoCode=evals-info-url). If you're new to evals, see [questions.md](questions.md) for free resources on the fundamentals.
 
 ## New to Evals? Start Here
 
